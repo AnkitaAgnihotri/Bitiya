@@ -6,3 +6,6 @@
 ## sept 13, 2018
  * get started with Ubuntu.
  * started with basics of python with udacity.
+ ## sept 14,2018
+  * installation of git
+  * ML from udacity
