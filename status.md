@@ -21,4 +21,21 @@
 ## sept 19, 2018
   * udacity ML
   * python
-  * programming on naive Bayes and SVM through scikit-learn
+  * programming on naive Bayes and SVM through scikit-learn 
+## sept 20, 2018
+  * continuing with ML audacity
+  * python basics 
+## sept 21, 2018
+  * exploring mycroft skills
+  * coding on classifiers (GaussianNB , SVM)
+## sept 22, 2018
+  * ML udacity course
+  * python libraries
+## sept 23, 2018
+  * study about decision tree classifier algorithm
+  * coding on decision tree algo
+## sept 24, 2018
+  * study about mycroft skills
+  * ML completed with classifiers
+  
+  
