@@ -37,5 +37,12 @@
 ## sept 24, 2018
   * study about mycroft skills
   * ML completed with classifiers
+## sept 25, 2018
+  * python concepts
+  * completed with decision tree
+## sept 26, 2018
+  * completed with udacity machine learning course
+  * continuing with python concepts provided by czentrix
+  * exploring sci kit website to study feature extraction and corpus
   
   
